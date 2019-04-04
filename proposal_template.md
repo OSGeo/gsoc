@@ -34,6 +34,8 @@
     (timeline) including the dates covering all period of GSoC. Don’t
     forget to include also the days in which you don’t plan to code,
     because of exams, holidays etc.
+  - The workload should be split in weekly chunks.
+  - Your timeline should contain actual dates, not "week 1", "week 2", etc.
   - Note that by the start of the official coding period, students
     should be ready to start coding right away. Activities such as:
     initial research, set up working environment, choose tools to be
