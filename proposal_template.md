@@ -69,4 +69,4 @@
   - How many times, which year, which project?
   - Have you applied but were not selected? When?
   - Have you submitted/will you submit another proposal for this year's
-    GSoC to a different org?
+    GSoC to a different org? Which one?
