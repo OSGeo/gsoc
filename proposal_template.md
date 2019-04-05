@@ -39,7 +39,8 @@
   - Note that by the start of the official coding period, students
     should be ready to start coding right away. Activities such as:
     initial research, set up working environment, choose tools to be
-    used in the project, set up repository, etc must be carried out
+    used in the project, set up repository, familiarize with the code 
+    base and with the mentors, etc. must be carried out
     during [ bonding
     period](https://wiki.osgeo.org/wiki/Google_Summer_of_Code_Recommendations_for_Students#Bonding_period).
     In your timeline, please add also activities that you will be carry
